@@ -1,4 +1,4 @@
-# beye
+# BEye
 101 repository
 Hello all, 
 
